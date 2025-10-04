@@ -57,6 +57,6 @@ This repository contains a collection of **Linux shell scripts** for system admi
 ## ⚡ How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/linux-automation-scripts.git
+git clone https://github.com/SriKaus/linux-automation-scripts.git
 cd linux-automation-scripts
 
